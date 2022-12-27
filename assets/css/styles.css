@@ -354,6 +354,7 @@ img {
   width: 200px;
   border-radius: .5rem;
   justify-self: center;
+  align-self: center;
 }
 
 .about__description {
@@ -381,6 +382,11 @@ img {
 .about__info-name {
   display: block;
   text-align: center;
+}
+
+.about__buttons {
+  display: flex;
+  justify-content: center;
 }
 
 /*==================== SKILLS ====================*/
