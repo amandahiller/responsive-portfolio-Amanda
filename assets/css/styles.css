@@ -1152,3 +1152,22 @@ img {
 }
 
 /* For large devices */
+ @media screen and (min-width: 1024px){
+  .header,
+  .main,
+  .footer__container{
+    padding: 0;
+  }
+
+  .services__container{
+    grid-template-columns: 350px 350px;
+  }
+  .services__content{
+    padding-right: 3.5rem;
+  }
+
+  .portfolio__content{
+    column-gap: 5rem;
+  }
+  
+} 
