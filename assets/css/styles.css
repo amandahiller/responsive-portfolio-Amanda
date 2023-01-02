@@ -1166,8 +1166,8 @@ img {
   }
 
   .services__container{
-    grid-template-columns: repeat(3, 300px);
-    margin-left: 325px;
+    grid-template-columns: repeat(2, 300px);
+    margin-left: 625px;
     margin-right: auto;
     justify-content: center;
   }
