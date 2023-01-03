@@ -1167,7 +1167,7 @@ img {
 
   .services__container{
     grid-template-columns: repeat(2, 300px);
-    margin-left: 625px;
+    margin-left: 525px;
     margin-right: auto;
     justify-content: center;
   }
